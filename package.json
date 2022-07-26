@@ -1,0 +1,15 @@
+{
+  "name": "record-me",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opendigitaleducation/record-me.git"
+  },
+  "author": "Open Digital Education",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opendigitaleducation/record-me/issues"
+  },
+  "homepage": "https://github.com/opendigitaleducation/record-me#readme"
+}
