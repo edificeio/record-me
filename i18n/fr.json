@@ -1,7 +1,7 @@
 {
-    "record-me": "Dictaphone",
+    "record-me": "Le studio",
     "record": "Enregistrement audio",
-    "recorder": "Dictaphone",
+    "recorder": "Le studio",
     "recorder.encoding": "Création du fichier...",
     "recorder.idle": "En attente",
     "recorder.not.supported": "Votre navigateur n'autorise pas l'enregistrement audio",
@@ -10,7 +10,7 @@
     "recorder.recording": "Enregistrement",
     "recorder.saved": "Votre enregistrement audio est disponible dans vos documents",
     "recorder.uploading": "Chargement...",
-    "recorder.widget": "Dictaphone",
+    "recorder.widget": "Le studio",
     "record.start": "Démarrer l'enregistrement",
     "record.stop": "Arrêter l'enregistrement",
     "record.play": "Jouer le son",
